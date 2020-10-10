@@ -1,0 +1,137 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+:root {
+    
+    font-size: 20px;
+}
+
+/*body {
+    width: 60%;
+    height: 90vh;
+
+}*/
+
+.community {
+    background-color: white;
+    padding: 55px 50px;
+    width: 100vw;
+    height: 40%;
+    font-size: 1rem;
+    line-height: 30px;
+    
+}
+.whyUs {
+    background-color: rgb(45, 184, 126) ;
+    padding: 55px 50px;
+    width: 50%;
+    height: 60vh;
+    float: right;
+    line-height: 28px;
+}
+.subscribe {
+   /* background-color: rgb(19, 173, 173)*/ background-color: rgb(11, 165, 101);
+    padding: 55px 50px;
+    width: 50%;
+    height: 60vh;
+    float: left;
+    line-height: 30px;
+}
+
+ul {
+    list-style-type: none;
+    color: rgb(167, 240, 218);
+    font-size: 0.9rem;
+    font-weight: 100;
+}
+
+.signUp {
+    background-color: rgb(178, 219, 30);
+    /*padding: 15px 30px 15px 30px;*/
+    padding: 13px 100px;
+    border-radius: 7px;
+    width: 270px;
+    margin-top: 30px;
+    font-size: 0.95rem;
+}
+
+.whiteText {
+    color: whitesmoke;
+    font-weight: 500;
+}
+
+.blueText {
+    color: rgb(179, 165, 165)
+}
+
+.yellowgreen {
+    color: rgb(178, 219, 30);
+}
+
+#textColor {
+    color: rgb(35, 161, 109);
+    font-weight: 500;
+}
+
+#dollar {
+    font-size: 1.6rem;
+    float: left;
+    margin-right: 10px;
+}
+
+.month {
+    float: right;
+    color: rgb(91, 192, 162);
+    width: 88%;
+    font-size: 1rem;    
+}
+
+.perDay {
+    color: rgb(167, 240, 218)
+}
+
+a {
+    text-decoration: none;
+}
+
+.pagePosition {
+    border: 1px solid black;
+    width: 450px;
+    background-color: white;
+    padding: 35px;
+    margin: 6px 450px;
+    height: 680px;
+    font-size: 0.9rem;
+    border-top: 3px solid red;
+}
+
+.signUpPage {
+    background-color: rgb(247, 247, 247);
+}
+
+.submit {
+    background-color: red;
+    font-size: 0.8rem;
+    color: white;
+    height: 40px;
+    width: 200px;
+    margin: 30px 85px;
+    border-color: red;
+
+}
+
+input {
+    height: 30px;
+    font-size: 0.9rem;
+}
+
+select {
+    height: 30px;
+}
+
+.greyDiv {
+    padding: 10px 15px;
+    background-color: rgb(221, 219, 219);
+}
